@@ -5,4 +5,4 @@ Below are the credentials for Azure database. You can open it in [Azure Data stu
 * Username: anchtest
 * Password: Anch1234
 
-#The name of the table where you will find the data is called dbo.data. 
+#The name of the table where you will find the data is called **dbo.data**. 
