@@ -35,7 +35,7 @@ Create a webpage utilizating [Angular](https://angular.io/) framework.
 - Displaying the number of users in the table in real time
 ## 3.3 Mockup
 Link to the mockup: https://xd.adobe.com/view/ce83b8cb-fdc4-4b54-8056-1e4742a092f3-9bd0/
-![](https://github.com/shreya-anch/Fullstack_assignment/blob/main/Contacts%20mockup.png)
+![](https://github.com/shreya-anch/Fullstack_assignment/blob/74fbfe8cdb346638e3cce2cf28fb147ba970c325/assets/Contacts%20mockup.png)
 # 4. Results
 Send email to info@anch.ai with link to your repository and include your full name in email to be recognizible. If your repository is private one then assign https://github.com/shreya-anch to be able to preview your code.
 
