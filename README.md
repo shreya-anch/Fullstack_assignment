@@ -20,15 +20,19 @@ Create a webpage utilizating [Angular](https://angular.io/) framework.
 - Job title -> sort by Job title name
 - Role -> sort by Role name
 
-4. Use [Bootstrap](https://getbootstrap.com/) library for any visuals that you want to create.
+4. Create a search bar to filter the content in the table by Name or Email address.
+
+5. Visualise the number of 'Total users', 'Admin', and 'Self Users'.
+
+6. Use [Bootstrap](https://getbootstrap.com/) library for any visuals that you want to create.
 ## 3.1 Requirements
-- Use [Angular](https://angular.io/) framework
+- Use [Angular](https://angular.io/) framework for the frontend
 - Use [C#](https://docs.microsoft.com/) for the backend logic
 - Fetch data from the Azure database
 - Use Github for code version control
 ## 3.2 Required functionality
 - Filters that can sort information in the table
-- Visualisation of the initial of the name in a cicle (round icon)
+- Displaying the number of users in the table in real time
 ## 3.3 Mockup
 Link to the mockup: https://xd.adobe.com/view/ce83b8cb-fdc4-4b54-8056-1e4742a092f3-9bd0/
 ![](https://github.com/shreya-anch/Fullstack_assignment/blob/main/Contacts%20mockup.png)
