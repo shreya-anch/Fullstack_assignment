@@ -3,7 +3,7 @@ In this document you will find an assignment for the Full Stack Developer positi
 # 2. Goal
 At the end of the assignment, you should create a table containing the necessary information and executed in a design style in accordance with the mockup. You willl be creating a webpage and visualising data stored in the [Azure](https://azure.microsoft.com/) database.
 # 3. Assignment
-Create a webpage utilizating [Angular](https://angular.io/) framework.
+Create a webpage utilizing [Angular](https://angular.io/) framework.
 
 1. Get access to the Azure database and extract the information that should be shown in the table:
 - First name
@@ -32,7 +32,7 @@ Create a webpage utilizating [Angular](https://angular.io/) framework.
 - Use Github for code version control
 ## 3.2 Required functionality
 - Filters that can sort information in the table
-- Displaying the number of users in the table in real time
+- Displaying the number of users in the table
 ## 3.3 Mockup
 Link to the mockup: https://xd.adobe.com/view/ce83b8cb-fdc4-4b54-8056-1e4742a092f3-9bd0/
 ![](https://github.com/shreya-anch/Fullstack_assignment/blob/74fbfe8cdb346638e3cce2cf28fb147ba970c325/assets/Contacts%20mockup.png)
