@@ -3,7 +3,7 @@ In this document you will find an assignment for the Full Stack Developer positi
 # 2. Goal
 At the end of the assignment you will be creating minimum 2 webpages where in:-
 
-1. You should create a table containing the necessary information and executed in a design style in accordance with the mockup(atached). You will be creating a webpage and visualising data stored in the [Azure](https://azure.microsoft.com/) database.
+1. You should create a table containing the necessary information and executed in a design style in accordance with the mockup(atached). You will be creating a webpage and visualising data stored in the [SQL] database.
 2. On the second webpage, you are free to show us your visualization skills. We expect you to do some nice plots(spider, donut). We also expect the visulization to be interactive with filters.   
 # 3. Assignment
 Create minimum 2 webpage utilizing [Angular](https://angular.io/) framework.
@@ -29,10 +29,11 @@ Create minimum 2 webpage utilizing [Angular](https://angular.io/) framework.
 
 6. Use [Bootstrap](https://getbootstrap.com/) library for any visuals that you want to create.
 ## 3.1 Requirements
-- Use [Angular 12](https://angular.io/) framework for the frontend
-- Use [.NetCore 5](https://docs.microsoft.com/) for the backend logic
-- Fetch data from the Azure database
+- Use [Angular 12 or latest ] framework for the frontend
+- Use [.NetCore 5 or latest ] for the backend logic
+- database setup scripts
 - Use Github for code version control
+
 ## 3.2 Required functionality
 - Filters that can sort information in the table
 - Displaying the number of users in the table
