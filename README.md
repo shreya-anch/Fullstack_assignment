@@ -50,6 +50,8 @@ What will be evaluated:
 - Ability to adopt to new technologies. How fast you managed to complete the task
 - Ability to come up with good visualizations based on the database. 
 
+Note: Feel free to make reasonable assumptions when needed.
+
 P.S. If you have a question do not hesitate to contact us!
 
 Good luck!
