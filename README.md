@@ -1,9 +1,12 @@
 # 1. Introduction
 In this document you will find an assignment for the Full Stack Developer position at [anch.AI](https://anch.ai/).
 # 2. Goal
-At the end of the assignment, you should create a table containing the necessary information and executed in a design style in accordance with the mockup. You willl be creating a webpage and visualising data stored in the [Azure](https://azure.microsoft.com/) database.
+At the end of the assignment you will be creating minimum 2 webpages where in:-
+
+1. You should create a table containing the necessary information and executed in a design style in accordance with the mockup(atached). You will be creating a webpage and visualising data stored in the [Azure](https://azure.microsoft.com/) database.
+2. On the second webpage, you are free to show us your visualization skills. We expect you to do some nice plots(spider, donut). We also expect the visulization to be interactive with filters.   
 # 3. Assignment
-Create a webpage utilizing [Angular](https://angular.io/) framework.
+Create minimum 2 webpage utilizing [Angular](https://angular.io/) framework.
 
 1. Get access to the Azure database and extract the information that should be shown in the table:
 - First name
