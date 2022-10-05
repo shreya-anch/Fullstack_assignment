@@ -49,7 +49,4 @@ P.S. If you have a question do not hesitate to contact us!
 
 Good luck!
 
-# Contact details if you have any questions
-Name: Kate
 
-Email: ekaterina.zagarniuk@anch.ai
